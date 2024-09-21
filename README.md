@@ -10,7 +10,7 @@
 
 Меня зовут Тимур, и я опытный Python-разработчик, специализирующийся на создании интеллектуальных решений с применением методов машинного обучения, а также на backend приложений с использованием PyQT. Используя широкий спектр библиотек и фреймворков, таких как NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow и Keras, я воплощаю мечты и желания в реальность!
 
-## Мои навыки и технологии
+## Технологии, которые я использую
 
 ![Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
