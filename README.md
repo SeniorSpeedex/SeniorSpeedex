@@ -8,7 +8,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-Меня зовут Тимур, и я Python-разработчик с глубокими знаниями в области машинного обучения. Я специализируюсь на создании интеллектуальных решений, используя широкий спектр библиотек и фреймворков, таких как NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow и Keras.
+Меня зовут Тимур, и я опытный Python-разработчик, специализирующийся на создании интеллектуальных решений с применением методов машинного обучения, а также на backend приложений с использованием PyQT. Используя широкий спектр библиотек и фреймворков, таких как NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow и Keras, я воплощаю мечты и желания в реальность!
 
 ## Мои навыки и технологии
 
