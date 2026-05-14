@@ -1,4 +1,4 @@
-# Привет! 👋
+# Hi there! 👋
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -8,9 +8,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-Меня зовут Тимур, и я Python-разработчик, специализирующийся на создании интеллектуальных решений с применением методов машинного обучения, а также на backend приложений.
+My name is Timur, and I’m a Python developer focused on building intelligent solutions using machine learning, as well as backend applications.
 
-## Технологии, которые я использую
+## Technologies I work with
 
 ![Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -19,27 +19,38 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorSpeedex&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Мои ключевые навыки:
+## Core skills
 
-### Python и Golang
-Я владею Python и Golang(junior), используя их как для создания высокопроизводительных скриптов, так и для разработки масштабируемых веб-приложений и ML.
+### Python & Golang
 
-### Инженер в машинном обучении
-Мои знания в области машинного обучения выходят далеко за рамки простого применения готовых алгоритмов. Я свободно работаю с популярными библиотеками и фреймворками, такими как NumPy, Pandas, Scikit-Learn, TensorFlow и Keras.
+I use Python as my main language and also work with Golang at a junior level. I apply them for scripting, backend systems, and ML-related tasks.
 
-### Разработчик интеллектуальных решений
-Объединяя Python-фреймворки и машинное обучение, я разрабатываю эффективные интеллектуальные решения, способные автоматизировать, прогнозировать, распознавать и многое другое.
+### Machine Learning Engineering
 
-### Опыт в визуализации данных
-Для наглядного представления результатов своей работы я активно использую библиотеки визуализации, такие как Matplotlib и Seaborn, создавая информативные и понятные отчеты.
+My ML experience goes beyond simply applying ready-made models. I work with popular libraries and frameworks such as:
 
-## Мои проекты
-Вы можете ознакомиться с подробностями моих проектов в [моем профиле на GitHub](https://github.com/SeniorSpeedex).
+- NumPy  
+- Pandas  
+- Scikit-Learn  
+- TensorFlow  
+- Keras  
 
-## Свяжитесь со мной
+### Intelligent Solutions Development
 
-Если у вас есть интересные возможности или проекты, связанные с машинным обучением или созданием приложений, я буду рад обсудить их с вами. Вы можете связаться со мной через:
+By combining Python frameworks and machine learning, I build systems that automate processes, make predictions, process text, and solve real-world tasks.
 
-- Email: timurfix21@gmail.com
+### Data Visualization
 
-Спасибо, что заглянули! 🙂
+I actively use visualization tools such as Matplotlib and Seaborn to present results clearly and effectively.
+
+## Projects
+
+You can explore my projects in my GitHub 
+
+## Contact
+
+If you have interesting opportunities or projects related to machine learning or backend development, feel free to reach out.
+
+Email: timurfix21@gmail.com
+
+Thanks for visiting 🙂
